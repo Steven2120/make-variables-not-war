@@ -1,15 +1,15 @@
 const {
-  myFirstName = "Steven",
-  myLastName =  "Moyano",
-  myBestFriend = "bff",
-  mySentence = "hello from the moon.",
-  myFavoriteNum = 7,
-  myMentalAge = 30,
-  myHeight = 66,
-  myFavoriteYear = 2019,
-  mySum = 1900 + 46,
-  myProduct = 2496 * 2,
-  myHeightAndAge = myHeight + myMentalAge,
+  myFirstName,
+  myLastName,
+  myBestFriend,
+  mySentence,
+  myFavoriteNum,
+  myMentalAge,
+  myHeight,
+  myFavoriteYear,
+  mySum,
+  myProduct,
+  myHeightAndAge,
 } = require('./main.js')
 
 
